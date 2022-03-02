@@ -1,2 +1,2 @@
-# Project
-My first project on Github
+# JSONPowerDB
+This project is all about basic CRUD operation.
